@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/PulfordJ/diffie_hellman_key_exchange_interactive_example.svg?branch=master)](https://travis-ci.org/PulfordJ/diffie_hellman_key_exchange_interactive_example)
+
 Demonstration of Diffie-Hellman key exchange
 See [wikipedia for more details](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
 
